@@ -1,0 +1,11 @@
+.move-left {
+float: left !important;
+}
+
+.move-right {
+float: right !important;
+}
+
+.move-center {
+margin: 0 auto !important;
+}
