@@ -9,3 +9,24 @@ float: right !important;
 .move-center {
 margin: 0 auto !important;
 }
+
+.button {
+	border-radius: 30px;
+	padding: 10px;
+	border: 0px;
+}
+
+.alert {
+	color: #ec5840;
+	color: #fefefe;
+}
+
+.success {
+	background-color: #22bb5b;
+	color: #fefefe;
+}
+
+.disabled {
+	background-color: #5f5f5f;
+	color: #fefefe;
+}
